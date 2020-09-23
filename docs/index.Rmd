@@ -2,7 +2,7 @@
 title: "Welcome to the Quantitative Sciences Group at UMass Amherst"
 output:
   prettydoc::html_pretty:
-    theme: tactile
+    theme: architect
     highlight: github
 ---
 
@@ -25,9 +25,12 @@ body {
 
 Welcome to the Environmental Conservation Quantitative Sciences Group (QSG) at the University of Massachusetts Amherst
 
+
+
+
 ## What is QSG?
 
-QSG is an ad hoc committee of the Environmental Conservation (ECo) Graduate Program in the Department of Environmental Conservation at the University of Massachustts Amherst, whose goal is to improve quantitative literacy in environmental science and conservation among graduate students and faculty of ECo. 
+QSG is an ad hoc committee of the Environmental Conservation (ECo) Graduate Program in the Department of Environmental Conservation at the University of Massachusetts Amherst, whose goal is to improve quantitative literacy in environmental science and conservation among graduate students and faculty of ECo. 
 
 > Quantitative literacy is the ability to understand and effectively apply quantitative methods, which is becoming increasingly important in environmental science and conservation.
 
@@ -39,6 +42,9 @@ However, based on the experience, expertise, and anticipated needs of graduate s
 - Spatial data analysis
 - Systems modeling
 
+
+
+
 ## What is our mission?
 
 With the overall goal of improving quantitative literacy in environmental science and conservation among ECo graduate students and faculty, QSG has three principal objectives:
@@ -47,23 +53,39 @@ With the overall goal of improving quantitative literacy in environmental scienc
 
 - To this end, QSG offers a four-semester sequence of courses on the analysis of environmental data, in addition to the regular periodic offerings of courses on specialized topics in spatial data analysis and systems modeling.
 
-- Provide quantitative sciences consultation to ECo graduate students and faculty - to this end, QSG is available every Monday 2:00-4:00 p.m. in 304 Holdsworth Hall for scheduled consultations to offer advice in the areas of study design, analytical methodology and interpretation of results. Click here for details on this consultation service.
 
-- Provide tutorials for statistical modeling in R - to this end, QSG is developing a series of tutorials on statistical modeling in R to aid students and faculty in the use of R for common statistical modeling applications in environmental conservation. Click here for details on these R tutorials.
+### Provide quantitative sciences consultation to ECo graduate students and faculty
 
-- QSG includes ECo faculty members with a particular interest and expertise in quantitative approaches in environmental conservation, including the following:
+To this end, QSG consultations are available to offer advice in the areas of study design, analytical methodology and interpretation of results. 
 
+<div class="redborder">
+- NOTE: As of September 2020, our regular Monday 2-4 meetings are temporarily suspended.  
+- We are working on an updated schedule and will resume consultations as soon as possible.
+</div>
+
+
+
+
+### Provide tutorials and support for statistical modeling in R
+
+To this end, QSG is developing a series of tutorials on statistical modeling in R to aid students and faculty in the use of R for common statistical modeling applications in environmental conservation. 
+
+
+## Who are we?
+
+QSG includes ECo faculty members with a particular interest and expertise in quantitative approaches in environmental conservation, including the following:
 
 <div class="redborder">
 
-Please contact any of thes individuals for more information about QSG
+Please contact any of these individuals for more information about QSG
 
+NOTE: contact list to be updated soon.
+
+<!-- - Dr. Jack Finn (finn@eco.umass.edu; 413-545-1819) -->
+<!-- - Dr. Andrew Whiteley (awhiteley@eco.umass.edu; 413-577-0204) -->
+<!-- - Dr. Adrian Jordaan (ajordaan@eco.umass.edu; 413-565-2758) -->
 <!-- * Dr. Kevin McGarigal (mcgarigalk@eco.umass.edu; 413-577-0655) -->
-- Dr. Jack Finn (finn@eco.umass.edu; 413-545-1819)
-- Dr. Chris Sutherland (csutherland@umass.edu; 413-545-1770)
-- Dr. Andrew Whiteley (awhiteley@eco.umass.edu; 413-577-0204)
-- Dr. Adrian Jordaan (ajordaan@eco.umass.edu; 413-565-2758)
+<!-- - Dr. Chris Sutherland (csutherland@umass.edu; 413-545-1770) -->
 
 </div>
-
 

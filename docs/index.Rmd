@@ -17,7 +17,7 @@ body {
   background-size: 100%;
 }
 
-.redborder   { border-radius: 0.2cm; padding: 0.3cm; border: 0.1cm solid #FF0000; color: rgba(0,0,0,1); }
+.redborder   { border-radius: 0.2cm; padding: 0.3cm; border: 0.3cm solid #FF0000; color: rgba(0,0,0,1); }
 </style>
 
 
@@ -56,7 +56,7 @@ With the overall goal of improving quantitative literacy in environmental scienc
 
 ### Provide quantitative sciences consultation to ECo graduate students and faculty
 
-To this end, QSG consultations are available to offer advice in the areas of study design, analytical methodology and interpretation of results. 
+- To this end, QSG consultations are available to offer advice in the areas of study design, analytical methodology and interpretation of results. 
 
 <div class="redborder">
 - NOTE: As of September 2020, our regular Monday 2-4 meetings are temporarily suspended.  
@@ -68,12 +68,12 @@ To this end, QSG consultations are available to offer advice in the areas of stu
 
 ### Provide tutorials and support for statistical modeling in R
 
-To this end, QSG is developing a series of tutorials on statistical modeling in R to aid students and faculty in the use of R for common statistical modeling applications in environmental conservation. 
+- To this end, QSG is developing a series of tutorials on statistical modeling in R to aid students and faculty in the use of R for common statistical modeling applications in environmental conservation. 
 
 
 ## Who are we?
 
-QSG includes ECo faculty members with a particular interest and expertise in quantitative approaches in environmental conservation, including the following:
+- QSG includes ECo faculty members with a particular interest and expertise in quantitative approaches in environmental conservation, including the following:
 
 <div class="redborder">
 

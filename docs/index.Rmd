@@ -34,14 +34,14 @@ QSG is an ad hoc committee of the Environmental Conservation (ECo) Graduate Prog
 
 > Quantitative literacy is the ability to understand and effectively apply quantitative methods, which is becoming increasingly important in environmental science and conservation.
 
-The realm of quantitative sciences in environmental science and conservation includes an exceptionally broad range of topics and methods. 
+The realm of quantitative sciences in environmental science and conservation includes an exceptionally broad range of topics and methods.
+
 However, based on the experience, expertise, and anticipated needs of graduate students and faculty in ECo, QSG focuses on the following areas as they apply to environmental science and conservation:
 
 - Study design
 - Statistical modeling
 - Spatial data analysis
 - Systems modeling
-
 
 
 
@@ -54,12 +54,12 @@ With the overall goal of improving quantitative literacy in environmental scienc
 - To this end, QSG offers a four-semester sequence of courses on the analysis of environmental data, in addition to the regular periodic offerings of courses on specialized topics in spatial data analysis and systems modeling.
 
 
-### Provide quantitative sciences consultation to ECo graduate students and faculty
+### Provide quantitative sciences consultation to ECo graduate students and faculty.
 
 - To this end, QSG consultations are available to offer advice in the areas of study design, analytical methodology and interpretation of results. 
 
 <div class="redborder">
-- NOTE: As of September 2020, our regular Monday 2-4 meetings are temporarily suspended.  
+- NOTE: Due to the demands and constraints resulting from COVID19, we have temporarily suspended our regular weekly consultations.
 - We are working on an updated schedule and will resume consultations as soon as possible.
 </div>
 
@@ -73,19 +73,5 @@ With the overall goal of improving quantitative literacy in environmental scienc
 
 ## Who are we?
 
-- QSG includes ECo faculty members with a particular interest and expertise in quantitative approaches in environmental conservation, including the following:
-
-<div class="redborder">
-
-Please contact any of these individuals for more information about QSG
-
-NOTE: contact list to be updated soon.
-
-<!-- - Dr. Jack Finn (finn@eco.umass.edu; 413-545-1819) -->
-<!-- - Dr. Andrew Whiteley (awhiteley@eco.umass.edu; 413-577-0204) -->
-<!-- - Dr. Adrian Jordaan (ajordaan@eco.umass.edu; 413-565-2758) -->
-<!-- * Dr. Kevin McGarigal (mcgarigalk@eco.umass.edu; 413-577-0655) -->
-<!-- - Dr. Chris Sutherland (csutherland@umass.edu; 413-545-1770) -->
-
-</div>
+- QSG includes ECo faculty members with a particular interest and expertise in quantitative approaches in environmental conservation.
 

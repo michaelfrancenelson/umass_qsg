@@ -1,7 +1,7 @@
 ---
 # title: "Welcome to the Quantitative Sciences Group at UMass Amherst"
 title: |
- ![](images/qsg_banner.jpg){width=22cm}
+ ![](images/qsg_banner.jpg){width=88%} 
  Welcome to the Quantitative Sciences Group at UMass Amherst!
 output:
   prettydoc::html_pretty:

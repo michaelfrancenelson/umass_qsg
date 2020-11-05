@@ -1,0 +1,25 @@
+---
+title: "Contact List"
+author: "Mike Nelson"
+date: "11/5/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+## QSG emails
+
+
+Andy Anderson <anderson@umass.edu>
+Brian Cheng <bscheng@umass.edu>
+John Finn <finn@eco.umass.edu>
+Adrian Jordaan <ajordaan@umass.edu>
+Malcolm Itter <mitter@umass.edu>
+Meghan MacLean <mgmaclean@umass.edu>
+Michael Nelson <michaelnelso@umass.edu>
+Ethan Plunkett <eplunkett@eco.umass.edu>
+

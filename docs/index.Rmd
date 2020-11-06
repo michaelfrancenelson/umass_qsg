@@ -78,5 +78,24 @@ With the overall goal of improving quantitative literacy in environmental scienc
 
 - QSG includes ECo faculty members with a particular interest and expertise in quantitative approaches in environmental conservation.
 
-### While QSG consultations are suspended, please direct all questions to Michael Nelson: michaelnelso@umass.edu
+Current QST members include.
+
+- [Andy Anderson](mailto:anderson@umass.edu)
+
+<!-- - [Brian Cheng](mailto:bscheng@umass.edu) - [Brian's faculty page](https://eco.umass.edu/people/faculty/cheng-brian-s/) -->
+
+<!-- - [John Finn](mailto:finn@eco.umass.edu) - [John's faculty page](https://eco.umass.edu/people/faculty/finn-john-t/) -->
+
+- [Adrian Jordaan](mailto:ajordaan@umass.edu) - [Adrian's faculty page](https://eco.umass.edu/people/faculty/jordaan-adrian/)
+
+<!-- - [Malcolm Itter](mailto:mitter@umass.edu) - [Malcolm's faculty page](https://eco.umass.edu/people/faculty/itter-malcolm/) -->
+
+<!-- - [Meghan MacLean](mailto:mgmaclean@umass.edu) - [Meg's faculty page](https://eco.umass.edu/people/faculty/maclean-meghan-graham/)\ -->
+
+- [Michael Nelson](mailto:michaelnelso@umass.edu) - [Mike's faculty page](https://eco.umass.edu/people/faculty/nelson-michael/)
+<!-- Ethan Plunkett <eplunkett@eco.umass.edu>[Ethan's faculty page](https://eco.umass.edu/people/professional-staff/plunkett-ethan/) -->
+ 
+
+
+<!-- ### While QSG consultations are suspended, please direct all questions to Michael Nelson: michaelnelso@umass.edu -->
 

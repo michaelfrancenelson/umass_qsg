@@ -1,13 +1,14 @@
 ---
-# title: "Welcome to the Quantitative Sciences Group at UMass Amherst"
 title: |
- ![](images/qsg_banner.jpg){width=88%} 
- Welcome to the Quantitative Sciences Group at UMass Amherst!
+  ![](`r here::here("docs", "images", "qsg_banner.jpg")`){width=88%} 
 output:
   prettydoc::html_pretty:
     theme: architect
     highlight: github
+editor_options: 
+  chunk_output_type: console
 ---
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -15,7 +16,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <style type="text/css" rel="stylesheet">
 body {
-  background-image: `r here::here("images", "qsg_banner.jpg")`;
+  background-image: `r here::here("docs", "images", "qsg_banner.jpg")`;
   background-repeat: no-repeat;
   background-size: 100%;
 }
@@ -24,10 +25,23 @@ body {
 </style>
 
 
-# Welcome to QSG
+```{r build_doc, echo = FALSE, eval=FALSE}
 
-Welcome to the Environmental Conservation Quantitative Sciences Group (QSG) at the University of Massachusetts Amherst
+rmarkdown::render(
+  input = here::here("index.Rmd"),
+  output_dir = here::here("docs")
+)
 
+```
+
+# Quantitative Sciences Group
+
+Welcome to the QSG at the University of Massachusetts Amherst!
+
+
+# Schedule a consultation
+
+For more information on QSG consultation sessions, and to schedule a consultation please visit the [QSG Consultation Signup Page](https://sites.google.com/umass.edu/qsg/home?authuser=0)
 
 
 
@@ -82,18 +96,19 @@ Current QST members include.
 
 - [Andy Anderson](mailto:anderson@umass.edu)
 
-<!-- - [Brian Cheng](mailto:bscheng@umass.edu) - [Brian's faculty page](https://eco.umass.edu/people/faculty/cheng-brian-s/) -->
+- [Brian Cheng](mailto:bscheng@umass.edu) - [Brian's faculty page](https://eco.umass.edu/people/faculty/cheng-brian-s/)
 
-<!-- - [John Finn](mailto:finn@eco.umass.edu) - [John's faculty page](https://eco.umass.edu/people/faculty/finn-john-t/) -->
+- [John Finn](mailto:finn@eco.umass.edu) - [John's faculty page](https://eco.umass.edu/people/faculty/finn-john-t/)
 
 - [Adrian Jordaan](mailto:ajordaan@umass.edu) - [Adrian's faculty page](https://eco.umass.edu/people/faculty/jordaan-adrian/)
 
-<!-- - [Malcolm Itter](mailto:mitter@umass.edu) - [Malcolm's faculty page](https://eco.umass.edu/people/faculty/itter-malcolm/) -->
+- [Malcolm Itter](mailto:mitter@umass.edu) - [Malcolm's faculty page](https://eco.umass.edu/people/faculty/itter-malcolm/)
 
-<!-- - [Meghan MacLean](mailto:mgmaclean@umass.edu) - [Meg's faculty page](https://eco.umass.edu/people/faculty/maclean-meghan-graham/)\ -->
+- [Meghan MacLean](mailto:mgmaclean@umass.edu) - [Meg's faculty page](https://eco.umass.edu/people/faculty/maclean-meghan-graham/)\
 
 - [Michael Nelson](mailto:michaelnelso@umass.edu) - [Mike's faculty page](https://eco.umass.edu/people/faculty/nelson-michael/)
-<!-- Ethan Plunkett <eplunkett@eco.umass.edu>[Ethan's faculty page](https://eco.umass.edu/people/professional-staff/plunkett-ethan/) -->
+
+- [Ethan Plunkett]( <eplunkett@eco.umass.edu>) - [Ethan's faculty page](https://eco.umass.edu/people/professional-staff/plunkett-ethan/)
  
 
 

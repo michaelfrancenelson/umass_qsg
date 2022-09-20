@@ -41,7 +41,7 @@ Welcome to the QSG at the University of Massachusetts Amherst!
 
 # Schedule a consultation
 
-For more information on QSG consultation sessions, and to schedule a consultation please visit the [QSG Consultation Signup Page](https://sites.google.com/umass.edu/qsg/home?authuser=0)
+For more information on QSG consultation sessions, and to schedule a consultation please visit the [QSG Consultation Signup Page](https://sites.google.com/umass.edu/qsg/home?authuser=0){target="_blank"}
 
 
 
@@ -75,12 +75,6 @@ With the overall goal of improving quantitative literacy in environmental scienc
 
 - To this end, QSG consultations are available to offer advice in the areas of study design, analytical methodology and interpretation of results. 
 
-<div class="redborder">
-- NOTE: Due to the demands and constraints resulting from COVID19, we have temporarily suspended our regular weekly consultations.
-- We are working on an updated schedule and will resume consultations as soon as possible.
-</div>
-
-
 
 
 ### Provide tutorials and support for statistical modeling in R
@@ -92,23 +86,23 @@ With the overall goal of improving quantitative literacy in environmental scienc
 
 - QSG includes ECo faculty members with a particular interest and expertise in quantitative approaches in environmental conservation.
 
-Current QST members include.
+Current QSG members include.
 
-- [Andy Anderson](mailto:anderson@umass.edu)
+- [Andy Anderson](mailto:anderson@umass.edu) - [Andy's Faculty page](https://eco.umass.edu/people/adjunct-faculty/anderson-andy/){target="_blank"}
 
-- [Brian Cheng](mailto:bscheng@umass.edu) - [Brian's faculty page](https://eco.umass.edu/people/faculty/cheng-brian-s/)
+- [Brian Cheng](mailto:bscheng@umass.edu) - [Brian's faculty page](https://eco.umass.edu/people/faculty/cheng-brian-s/){target="_blank"}
 
-- [John Finn](mailto:finn@eco.umass.edu) - [John's faculty page](https://eco.umass.edu/people/faculty/finn-john-t/)
+- [John Finn](mailto:finn@eco.umass.edu) - [John's faculty page](https://eco.umass.edu/people/faculty/finn-john-t/){target="_blank"}
 
-- [Adrian Jordaan](mailto:ajordaan@umass.edu) - [Adrian's faculty page](https://eco.umass.edu/people/faculty/jordaan-adrian/)
+- [Adrian Jordaan](mailto:ajordaan@umass.edu) - [Adrian's faculty page](https://eco.umass.edu/people/faculty/jordaan-adrian/){target="_blank"}
 
-- [Malcolm Itter](mailto:mitter@umass.edu) - [Malcolm's faculty page](https://eco.umass.edu/people/faculty/itter-malcolm/)
+- [Malcolm Itter](mailto:mitter@umass.edu) - [Malcolm's faculty page](https://eco.umass.edu/people/faculty/itter-malcolm/){target="_blank"}
 
-- [Meghan MacLean](mailto:mgmaclean@umass.edu) - [Meg's faculty page](https://eco.umass.edu/people/faculty/maclean-meghan-graham/)\
+- [Meghan MacLean](mailto:mgmaclean@umass.edu) - [Meg's faculty page](https://eco.umass.edu/people/faculty/maclean-meghan-graham/){target="_blank"}
 
-- [Michael Nelson](mailto:michaelnelso@umass.edu) - [Mike's faculty page](https://eco.umass.edu/people/faculty/nelson-michael/)
+- [Michael Nelson](mailto:michaelnelso@umass.edu) - [Mike's faculty page](https://eco.umass.edu/people/faculty/nelson-michael/){target="_blank"}
 
-- [Ethan Plunkett]( <eplunkett@eco.umass.edu>) - [Ethan's faculty page](https://eco.umass.edu/people/professional-staff/plunkett-ethan/)
+- [Ethan Plunkett]( <eplunkett@eco.umass.edu>) - [Ethan's faculty page](https://eco.umass.edu/people/professional-staff/plunkett-ethan/){target="_blank"}
  
 
 
